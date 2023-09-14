@@ -1,0 +1,17 @@
+#sair{
+    width: 100px;
+}
+#sair:hover{
+
+background-color:red;
+}
+.mostra {
+    cursor: pointer;
+    left: 160px;
+    position: absolute;
+    width: 20px;
+  }
+  #senha {
+    width: 150px;
+    padding-right: 20px;
+  }
